@@ -1,0 +1,19 @@
+#etch {
+  margin:auto;
+  border: 20px solid red;
+  height: 600px;
+  width: 600px;
+
+}
+#controls {
+  margin:auto;
+  display: block;
+  width: 200px;
+}
+.floatingDiv {
+  display: inline-block;
+  float: left;
+}
+.hovered {
+  background-color: black;
+}
